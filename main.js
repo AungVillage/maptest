@@ -11,7 +11,7 @@ function showProvince() {
         myChart.setOption(option = {
             backgroundColor: '#404a59',
             title: {
-                text: provincesText[currentIdx],
+                text: "重庆",
                 left: 'center',
                 textStyle: {
                     color: '#fff'
